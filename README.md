@@ -1,3 +1,6 @@
+<img width="396" height="694" alt="Captura de pantalla 2026-08-01 174407" src="https://github.com/user-attachments/assets/66929fc6-4398-468b-b0eb-d9fd67bf0682" />
+<img width="396" height="694" alt="Captura de pantalla 2026-08-01 174407" src="https://github.com/user-attachments/assets/ebff48c7-364b-47fe-9f2c-6d41c1b8768c" />
+<img width="396" height="694" alt="Captura de pantalla 2026-08-01 174407" src="https://github.com/user-attachments/assets/3e1974bb-e8ed-45df-ab88-f46c037522ab" />
 # Actividad 8 – Clases y Objetos
 
 ## Consigna
@@ -74,5 +77,10 @@ Luego el programa pedirá introducir los datos de los 5 libros y, al
 finalizar, mostrará el listado completo en pantalla.
 
 ## Capturas de pantalla del programa en ejecución
-(Agregar aquí las capturas de pantalla del programa compilado y
-ejecutándose, mostrando la captura de datos y el listado final).
+<img width="396" height="694" alt="Captura de pantalla 2026-08-01 174407" src="https://github.com/user-attachments/assets/e4ee610d-31c2-4f7c-bcf8-a66f29c80432" />
+
+<img width="453" height="904" alt="Captura de pantalla 2026-08-01 174419" src="https://github.com/user-attachments/assets/a25ccf07-91fe-4454-b384-9a632840bca0" />
+
+
+
+
