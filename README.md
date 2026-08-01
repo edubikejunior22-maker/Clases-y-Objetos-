@@ -13,7 +13,7 @@ pantalla.
 
 ## Datos del estudiante
 - **Nombre:** Pedro Yunior Edubique Hernández
-- **Matrícula:** (agregar matrícula)
+- **Matrícula:** (2025-1422)
 - **Sección:** ISW-121-3
 - **Materia:** Lógica de Programación
 - **Profesor:** Gamalier Reyes del Carmen
