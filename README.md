@@ -5,7 +5,7 @@ Crea una clase llamada Libro con los atributos: titulo, autor, año de publicaci
 
 Datos del estudiante
 Nombre: Pedro Yunior Edubique Hernández
-Matrícula: (2025-1422)
+Matrícula: (agregar matrícula)
 Sección: ISW-121-3
 Materia: Lógica de Programación
 Profesor: Gamalier Reyes del Carmen
@@ -54,9 +54,3 @@ bash
 Libro.exe
 
 Luego el programa pedirá introducir los datos de los 5 libros y, al finalizar, mostrará el listado completo en pantalla.
-
-Capturas de pantalla del programa en ejecución
-
-(Agregar aquí las capturas de pantalla del programa compilado y ejecutándose, mostrando la captura de datos y el listado final).<img width="453" height="904" alt="Captura de pantalla 2026-08-01 174419" src="https://github.com/user-attachments/assets/2f7fc9a0-42d0-4ed0-80c1-0d327fb79bd1" />
-
-<img width="396" height="694" alt="Captura de pantalla 2026-08-01 174407" src="https://github.com/user-attachments/assets/4fe5ed6b-df07-4522-9f42-0fafd1f3a7db" />
